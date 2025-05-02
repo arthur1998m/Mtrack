@@ -1,0 +1,15 @@
+{
+  "name": "mmw-track-android",
+  "version": "1.0.0",
+  "description": "Projeto Android para MMW Track",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "android",
+    "jetpack",
+    "compose"
+  ],
+  "author": "Arthur",
+  "license": "MIT"
+}
